@@ -115,4 +115,14 @@ public class User {
 		return "User [userCod=" + userCod + ", password=" + password + "]";
 	}
 	
+	/**
+	 * Métodos para un Junit
+	 */
+	public static int getNumber10(){
+        return 10;
+    }
+	public static int getNumber5(){
+        return 10;
+    }
+	
 }
