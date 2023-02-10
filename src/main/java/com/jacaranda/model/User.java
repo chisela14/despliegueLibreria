@@ -122,7 +122,7 @@ public class User {
         return 10;
     }
 	public static int getNumber5(){
-        return 10;
+        return 5;
     }
 	
 }
