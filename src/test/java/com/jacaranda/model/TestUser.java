@@ -12,7 +12,7 @@ public class TestUser {
     }
 	@Test
     public void testNumber5() {
-        assertEquals(10, User.getNumber5());
+        assertEquals(5, User.getNumber5());
     }
 
 }
