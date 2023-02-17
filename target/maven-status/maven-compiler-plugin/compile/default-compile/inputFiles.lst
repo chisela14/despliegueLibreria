@@ -1,0 +1,11 @@
+/home/estudiante/Chisela/DespliegueWeb/despliegueLibreria/src/main/java/com/jacaranda/dao/DaoUser.java
+/home/estudiante/Chisela/DespliegueWeb/despliegueLibreria/src/main/java/com/jacaranda/model/UserException.java
+/home/estudiante/Chisela/DespliegueWeb/despliegueLibreria/src/main/java/com/jacaranda/dao/ConnectionDB.java
+/home/estudiante/Chisela/DespliegueWeb/despliegueLibreria/src/main/java/com/jacaranda/model/Book.java
+/home/estudiante/Chisela/DespliegueWeb/despliegueLibreria/src/main/java/com/jacaranda/dao/DaoException.java
+/home/estudiante/Chisela/DespliegueWeb/despliegueLibreria/src/main/java/com/jacaranda/dao/DaoBook.java
+/home/estudiante/Chisela/DespliegueWeb/despliegueLibreria/src/main/java/com/jacaranda/dao/DaoGenre.java
+/home/estudiante/Chisela/DespliegueWeb/despliegueLibreria/src/main/java/com/jacaranda/model/BookException.java
+/home/estudiante/Chisela/DespliegueWeb/despliegueLibreria/src/main/java/com/jacaranda/model/GenreException.java
+/home/estudiante/Chisela/DespliegueWeb/despliegueLibreria/src/main/java/com/jacaranda/model/Genre.java
+/home/estudiante/Chisela/DespliegueWeb/despliegueLibreria/src/main/java/com/jacaranda/model/User.java

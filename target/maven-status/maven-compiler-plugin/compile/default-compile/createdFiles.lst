@@ -1,0 +1,11 @@
+com/jacaranda/dao/DaoUser.class
+com/jacaranda/dao/DaoBook.class
+com/jacaranda/model/GenreException.class
+com/jacaranda/model/Book.class
+com/jacaranda/model/BookException.class
+com/jacaranda/dao/DaoGenre.class
+com/jacaranda/dao/ConnectionDB.class
+com/jacaranda/dao/DaoException.class
+com/jacaranda/model/UserException.class
+com/jacaranda/model/Genre.class
+com/jacaranda/model/User.class

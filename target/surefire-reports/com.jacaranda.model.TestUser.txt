@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.jacaranda.model.TestUser
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.012 s <<< FAILURE! - in com.jacaranda.model.TestUser
+testNumber5  Time elapsed: 0.005 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <5> but was: <10>
+	at com.jacaranda.model.TestUser.testNumber5(TestUser.java:15)
+
